@@ -75,7 +75,7 @@ export default function Chatboats() {
               <span>
                 <IoLogoOctocat />
               </span>
-              <p>Hi how can i help you?</p>
+              <p>Hi how can i help you? i am meow</p>
             </div>
           )}
         </div>
